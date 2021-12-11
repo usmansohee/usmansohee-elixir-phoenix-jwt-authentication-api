@@ -1,9 +1,9 @@
 # Phoenix Login/Signup Authentication-Api with JSON web token.
 
 Libraries used:
-{:comeonin, "~> 4.0"},
-{:bcrypt_elixir, "~> 1.0"},
-{:guardian, "~> 1.0"}
+1. comeonin, "~> 4.0"
+2. bcrypt_elixir, "~> 1.0" 
+3. guardian, "~> 1.0" 
       
 To start your Phoenix server:
 
